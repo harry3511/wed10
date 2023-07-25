@@ -1,0 +1,36 @@
+1. 
+git init
+
+2. 
+git config user.name 'moonjongjs'
+git config user.email 'moonseonjong@naver.com'
+
+3. 
+git remote add origin https://github.com/moonjongjs/wed.git
+git remote -v
+
+origin  https://github.com/moonjongjs/wed.git (fetch)
+origin  https://github.com/moonjongjs/wed.git (push)
+
+4. 스테이징
+git  add  .
+
+
+5. 커밋
+git commit -m '웨딩홈페이지 배포'
+
+
+6. 푸쉬
+git push origin master
+
+
+7. 새로고침
+
+
+8. Settings
+
+9. pages
+
+10. GitHub Pages => Branch => master => Save
+
+https://moonjongjs.github.io/week8_photograpy/#wrap
